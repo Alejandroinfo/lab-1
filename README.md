@@ -9,7 +9,7 @@ For easiest viewing of these instructions, view online on Github.com or use a Ma
 
 If you haven't already, clone the course materials repo at https://github.com/UChicagoWebDev/course_materials.
 
-1. Make a fork of this repo with Github Classroom: https://classroom.github.com/classrooms/97002355-web-development-spring-2025
+1. Make a fork of this repo from: https://github.com/UChicagoWebDev/lab-1-1
 2. Create a file in this firectory called *yourname*.html. For example, mine would be `trevor.html`. Commit and push your changes.
 3. ~~Copy yourname.html to uchicagowebdev.com using the instructions in class.~~ Free point!
 4. ~~Copy the URL of your repository and submit it on Canvas.~~ Free point!
