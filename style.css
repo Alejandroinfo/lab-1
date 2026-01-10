@@ -1,0 +1,27 @@
+h2 {
+    display: block;
+    font-size: 3em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 1px;
+    margin-inline-end: 1px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+li {
+    font: sans-serif;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+#Rico {
+    color: red;
+}
